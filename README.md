@@ -16,3 +16,5 @@ If you submit a valid bug with enough information and i reply to you... you will
 You can talk about and suggest unrelated stuff in discussions... such as server suggestions, website suggestions, website bugs and much more...
 
 Lastly... please do not use this to troll with unrelated comments... (im not gonna say anything else xx)
+
+## you can also fill out the form on our website at https://tunesmusic.tk/form to suggest
