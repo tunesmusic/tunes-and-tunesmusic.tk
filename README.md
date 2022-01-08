@@ -1,6 +1,6 @@
 # tunes-feedback-and-bugs
 This is for reporting bugs/giving feedback for tunes🎧 or the website
-Please only report valid bugs and include enough information ⬇️
+Please only report valid bugs and include enough information ⬇️ (this information is also included when you go to create an issue under templates)
 
 Provide information like: 
 - describe the bug (what went wrong and what happened)
